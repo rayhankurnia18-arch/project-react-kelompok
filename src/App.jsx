@@ -3,8 +3,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   const data = [
     { nama: "Panduji", nim: "25314070711001", role: "Ketua Kelompok", warna: "primary" },
-    { nama: "Rayhan Kurnia", nim: "25314070711002", role: "Anggota", warna: "secondary" },
-    { nama: "Jordan", nim: "25314070711003", role: "Anggota", warna: "secondary" },
+    { nama: "Rayhan Kurnia", nim: "253140707111069", role: "Anggota", warna: "secondary" },
+    { nama: "Ilham Jordan, nim: "253140707111080", role: "Anggota", warna: "secondary" },
   ];
 
   return (
