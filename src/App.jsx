@@ -4,7 +4,7 @@ function App() {
   const anggota = [
     { nama: "Ilham Jordan", nim: "253140707111080", role: "Anggota", warna: "secondary" },
     { nama: "Rayhan Kurnia", nim: "253140707111069", role: "Ketua", warna: "primary" },
-    { nama: "Budi", nim: "987654321", role: "Anggota", warna: "success" }
+    { nama: "Pandu Aji Setiawan", nim: "253140707111065", role: "Anggota", warna: "success" }
   ];
 
   return (
